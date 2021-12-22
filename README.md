@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Md Anisujjaman
+### Hi 👋, I'm Md Anisujjaman
+
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
+- 🔭 I’m currently working on Xeon Technology Ltd.
+- 💬 Ask me about C# & Python
 - 📫 How to reach me ! Contact.anisujjaman@gmail.com
 
 <!---
