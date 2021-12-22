@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Md Anisujjaman
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ! Contact.anisujjaman@gmail.com
 
 <!---
 Anisujjaman-Md/Anisujjaman-Md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
