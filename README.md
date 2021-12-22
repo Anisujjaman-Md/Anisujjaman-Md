@@ -8,9 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisujjaman-md)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anisujjaman-md&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anisujjaman-md&show_icons=true) 
 
-![Profile views](https://gpvc.arturio.dev/anisujjaman-md)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anisujjaman-md) 
+
+![Profile views](https://gpvc.arturio.dev/anisujjaman-md)
 
 <!---
 Anisujjaman-Md/Anisujjaman-Md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
