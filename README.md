@@ -1,7 +1,7 @@
 
 
 ## Hi, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> I'm Md Anisujjaman
-<div><img width="50%" height="50%" align="right" alt="Github" src="https://c.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" />
+<div><img width="35%" align="right" alt="Github" src="https://c.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" />
 
 
 - 👀 I’m interested in Programming
@@ -22,7 +22,6 @@
 <a href = "https://www.instagram.com/md_anisujjaman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="mailto:Contact.anisujjaman@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   
-   <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisujjaman-md&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
 <!---
 Anisujjaman-Md/Anisujjaman-Md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
