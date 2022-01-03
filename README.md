@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ***C# & Dot Net Core***
+- 🌱 I’m currently learning ***GraphQL***
 - 🔭 I’m currently working on Xeon Technology Ltd.
 - 💬 Ask me about ***C# & Python***
 
