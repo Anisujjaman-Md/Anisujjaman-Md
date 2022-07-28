@@ -11,6 +11,6 @@
 </p>
 
 <p align="center"><samp>
-Check out my repos <b> ⤵️ </b>
+Check out my repos ⤵️
   </samp>
 </p>
