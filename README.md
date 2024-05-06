@@ -6,12 +6,7 @@
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/md-anisujjaman/"><img height="25%" width="25" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-  
-<a href= "https://www.linkedin.com/in/md-anisujjaman/"><img height="25%" width="25" src="![image](https://github.com/Anisujjaman-Md/Anisujjaman-Md/assets/96490687/a7758d42-874e-48d6-a2e0-871a837e8443)
-"/></a>
-
-  
+<a href= "https://leetcode.com/md_anisujjaman"><img height="25%" width="25" src="https://img.icons8.com/small/16/leetcode.png"/></a>
 <a href= "https://www.facebook.com/Anisujjaman.Md"><img height="25%" width="25" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href= "mailto:contact.anisujjaman@gmail.com"><img height="25%" width="25" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
